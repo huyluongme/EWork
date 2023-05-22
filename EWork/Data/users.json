@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Li Yeng",
+        "password":"yen",
+        "username":"yen",
+        "type": 0
+    },
+    {
+        "name":"user1",
+        "password":"user1",
+        "username":"user1",
+        "type": 1
+    },
+    {
+        "name":"user2",
+        "password":"user2",
+        "username":"user2",
+        "type": 1
+    },
+    {
+        "name":"user3",
+        "password":"user3",
+        "username":"user3",
+        "type": 1
+    },
+    {
+        "name":"user4",
+        "password":"user4",
+        "username":"user4",
+        "type": 1
+    },
+    {
+        "name":"user5",
+        "password":"user5",
+        "username":"user5",
+        "type": 1
+    }
+]
